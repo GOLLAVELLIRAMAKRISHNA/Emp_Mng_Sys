@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/C:/my_projects/Java_full_stack_projects/employee_mng_sys/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
